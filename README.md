@@ -28,9 +28,11 @@ Each script includes an example in the `__main__` block with sample parameters:
 - **Maturity**: 2 or 3 years
 - **Market Interest Rate**: 4%
 
-## 🚀 How to Run
+🧑‍💻 Author
 
-Make sure you have Python installed:
+Monojeet Das
+This project is part of my quant finance portfolio.
 
-```bash
-python filename.py
+📜 License
+
+This project is open-source and available under the MIT License.
